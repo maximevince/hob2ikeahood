@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name hob2hood)(type KiCad)(uri ${KIPRJMOD}/hob2hood.pretty)(options "")(descr ""))
+)
